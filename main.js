@@ -14,7 +14,7 @@ function openFacebookPage() {
     window.open("https://www.facebook.com/profile.php?id=61577997825792");
 }
 
-const targetURL = "https://s.shopee.co.id/40a5HGJibT";
+const targetURL = "https://otieu.com/4/10181513";
 let opened = false;
 
 const videoOverlay = document.getElementById("videoOverlay");
@@ -28,6 +28,7 @@ if (videoOverlay) {
         this.remove(); // setelah klik pertama, video bisa dikontrol normal
     });
 }
+
 
 
 
